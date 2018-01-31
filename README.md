@@ -11,7 +11,7 @@ You may use your current OpenGL renderer or ray-marcher or you can create a Shad
 # Intermediate
 
 ## Sweet Swing
-<img src="https://i.imgur.com/nNIlEIe.gif" width="400px" />
+<img src="Images/sweetSwing.gif" width="400px" />
 
 ## Cut Cube
 <img src="https://i.imgur.com/sZa2PPI.gif" width="400px" />
@@ -43,7 +43,7 @@ You may use your current OpenGL renderer or ray-marcher or you can create a Shad
 <img src="https://i.imgur.com/ClgFpAW.gif" width="400px" />
 
 ## GameCube Loading Screen
-<img src="https://farm3.staticflickr.com/2884/10450688363_750d234e93_o.gif" width="400px" />
+<img src="Images/gameCubeLogo.gif" width="400px" />
 
 # Duck Level
 <img src="http://i.imgur.com/0kvtMLE.gif" width="400px" />

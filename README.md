@@ -27,9 +27,6 @@ Below are multiple examples of periodic loading animations with assigned point v
 
 # Difficult
 
-## Funny Duck
-<img src="http://i.imgur.com/0kvtMLE.gif" width="400px" />
-
 ## Electron Orbitals
 <img src="http://i.imgur.com/MNw0Vrm.gif" width="400px" />
 
@@ -44,4 +41,7 @@ Below are multiple examples of periodic loading animations with assigned point v
 
 ## GameCube Loading Screen
 <img src="https://www.youtube.com/watch?v=fCp1r6jVRgs" width="400px" />
+
+# Duck Level
+<img src="http://i.imgur.com/0kvtMLE.gif" width="400px" />
 

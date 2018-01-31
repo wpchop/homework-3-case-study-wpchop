@@ -5,6 +5,7 @@ For this assignment, you will re-create various animations demonstrating a combi
 Below are multiple examples of periodic loading animations with assigned point values. You are required to complete EITHER:
 * One scene from the first list of easier animations and one scene from the second list of more challenging ones
 * Three scenes from the first easier list.
+* One Duck-Level-hard animation (at the very bottom)
 
 You may use your current OpenGL renderer or ray-marcher or you can create a Shadertoy account to complete the assignment. If you'd like to implement any animations that are not listed below, you can post on Piazza and we will decide if they are appropriate for the assignment. Check [/r/loadingicon](https://www.reddit.com/r/loadingicon) on Reddit for inspiration.
 

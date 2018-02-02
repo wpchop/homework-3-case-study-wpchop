@@ -5,8 +5,8 @@
 For this assignment, you will re-create various animations demonstrating a combination of toolbox functions and the rendering techniques you've already learned. The motivation for this is to help you become more familiar with toolbox functions as well as give you experience in producing a desired aesthetic.
 
 Below are multiple examples of periodic animations with assigned point values. You are required to complete EITHER:
-* One scene from the first list of easier animations and one scene from the second list of more challenging ones
-* Three scenes from the first easier list.
+* One intermediate animation and one hard animation
+* Three intermediate animations
 * One Duck-Level-hard animation (at the very bottom)
 
 You have three options for implementing these:
@@ -14,7 +14,7 @@ You have three options for implementing these:
 * Raymarcher / implicit surfaces, like homework 2
 * Shadertoy (probably the easiest)
 
-... or any combination of the above
+You can also implement different scenes with different methods.
 
 If you'd like to implement any animations that are not listed below, you can make a _private_ post on Piazza and we will decide if they are appropriate for the assignment, and their difficulty classification. Check [/r/loadingicon](https://www.reddit.com/r/loadingicon) on Reddit for inspiration.
 
@@ -24,7 +24,7 @@ If you'd like to implement any animations that are not listed below, you can mak
 
 You must submit a writeup for this assignment by 11:59 PM on Thursday, Feb. 9th to canvas *as a .pdf or .txt*. If your projects are hosted on Github you should copy your writeup to a readme but this will not be graded.
 
-Writeups must include, for each shader:
+Writeups must include, for each scene:
 * A link to the online implementation
 * A link to the reference animation
 * Description of techniques used to emulate the reference, for both motion and rendering
@@ -33,7 +33,7 @@ Writeups must include, for each shader:
 
 # Evaluation
 
-Each intermediate shader is worth 1/3 credit. Difficult shaders are 2/3 credit. Duck-level shaders are worth 100% credit.
+Each intermediate scene is worth 1/3 credit. Difficult scenes are 2/3 credit. Duck-level scenes are worth 100% credit.
 Extra credit is at grader discretion and cannot exceed 20 points.
 
 *If we cannot view your work online it will receive no credit.*

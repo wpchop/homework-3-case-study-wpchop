@@ -70,22 +70,19 @@ All shaders will be graded by this scheme:
 ## Tri-Colored Cube
 <img src="https://i.redd.it/e8dcpl3rw32z.gif" width="400px" />
 
-## [Spindle of Death](https://www.reddit.com/r/loadingicon/comments/799gw8/3d_version_of_that_weird_trippy_moving_circle/)
+## Spindle of Death
+[Reference image here](https://www.reddit.com/r/loadingicon/comments/799gw8/3d_version_of_that_weird_trippy_moving_circle/)
 
 # References: Hard Difficulty
 
 ## Electron Orbitals
 <img src="http://i.imgur.com/MNw0Vrm.gif" width="400px" />
 
-#### Notes:
-- Speed difference on higher electron shells
-
 ## Rainbow Step Cube
 <img src="https://78.media.tumblr.com/a5fc5d607e40fe345f5ba6e10fbb21a3/tumblr_or5m8jLTtd1r65ii5o1_500.gif" width="400px" />
 
 #### Notes:
-- Match Colors on extruded columns
-- Motion of extruded columns (uneven heights)
+- Height variation is required in the extrustions
 
 ## Bubbling Beaker
 <img src="https://d13yacurqjgara.cloudfront.net/users/318273/screenshots/2029648/verve_lab_dribbble.gif" width="400px" />
@@ -94,10 +91,10 @@ All shaders will be graded by this scheme:
 <img src="https://i.imgur.com/ClgFpAW.gif" width="400px" />
 
 #### Notes:
-- Soft Shadows
+- Soft shadows required
 
 #### Extra Credit:
-- Depth of Field
+- Depth of field (screenspace, IQ has examples)
 
 ## GameCube Loading Screen
 <img src="Images/gameCubeLogo.gif" width="400px" />
@@ -116,6 +113,4 @@ _good luck, duck!_
 - Match the movement of the feet
 - Shading of the duck
 - Fake shadows as circles
-- left wing disappears and reappears
-- Right wing lines move
-- Neck shape line moves
+

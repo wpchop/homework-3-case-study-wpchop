@@ -48,15 +48,36 @@ All shaders will be graded by this scheme:
 ## Sweet Swing
 <img src="Images/sweetSwing.gif" width="400px" />
 
+#### Specifications:
+- Motion of the steel ball
+- Motion of the hoop
+- Visible motion of the string
+- Specular reflection model of steel objects
+- Match the general shape of the half pipe ramp
+
+#### Extra credit:
+- Extremely well rendered materials will count towards extra credit
+
 ## Cut Cube
 <img src="https://i.imgur.com/sZa2PPI.gif" width="400px" />
+
+#### Specifications:
+- Match movements of the cubes and squares with particularly close approximations of the motion.
 
 ## Speedy Spin OR Speedy Cube
 <img src="https://i.imgur.com/AI00mHu.gif" width="400px" />
 <img src="https://i.imgur.com/Ltm5xjD.gif" width="400px" />
 
+#### Specifications:
+- Motion Blur
+- Spinning Cube/Sphere formed from the blurred particles
+- The motion (inertia while starting and stopping)
+
 ## Paw Metaballs
 <img src="https://assets0.ello.co/uploads/asset/attachment/5159868/ello-optimized-99a5cfbf.gif" width="400px" />
+
+#### Specifications:
+- Smooth Blending during separation and joining of blobs
 
 ## Tri-Colored Cube
 <img src="https://i.redd.it/e8dcpl3rw32z.gif" width="400px" />
@@ -82,3 +103,15 @@ All shaders will be graded by this scheme:
 
 # Reference: Duck Level Difficulty
 <img src="http://i.imgur.com/0kvtMLE.gif" width="400px" />
+
+#### Specifications:
+_good luck, duck!_
+- Modelling the duck
+- Head Bob
+- Tail Wag
+- Match the movement of the feet
+- Shading of the duck
+- Fake shadows as circles
+- left wing disappears and reappears
+- Right wing lines move
+- Neck shape line moves

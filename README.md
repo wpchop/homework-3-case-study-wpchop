@@ -27,7 +27,7 @@ You must submit a writeup for this assignment by 11:59 PM on Thursday, Feb. 9th 
 Writeups must include, for each scene:
 * A link to the online implementation
 * A link to the reference animation
-* Description of techniques used to emulate the reference, for both motion and rendering
+* *Detailed* description of techniques used to emulate the reference, for both motion and rendering
 * If you implement extra credit, explain what it is and how to toggle it
 
 

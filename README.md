@@ -13,7 +13,7 @@ You have three options for implementing these:
 * Rasterizer, like homework 1
 * Raymarcher / implicit surfaces, like homework 2
 * Shadertoy (probably the easiest)
-* Any combination of the above
+... or any combination of the above
 
 If you'd like to implement any animations that are not listed below, you can make a _private_ post on Piazza and we will decide if they are appropriate for the assignment, and their difficulty classification. Check [/r/loadingicon](https://www.reddit.com/r/loadingicon) on Reddit for inspiration.
 

@@ -72,7 +72,6 @@ All shaders will be graded by this scheme:
 
 ## Spindle of Death
 <img src="https://media.giphy.com/media/26DN7fdyFRqfBjqMw/giphy.gif" width="400px" />
-[Reference image here](https://www.reddit.com/r/loadingicon/comments/799gw8/3d_version_of_that_weird_trippy_moving_circle/)
 
 # References: Hard Difficulty
 

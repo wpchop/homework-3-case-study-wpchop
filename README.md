@@ -22,7 +22,7 @@ If you'd like to implement any animations that are not listed below, you can mak
 
 # Submission
 
-You must submit a writeup for this assignment by 11:59 PM on Thursday, Feb. 9th to canvas *as a .pdf or .txt*. If your projects are hosted on Github you should copy your writeup to a readme.
+You must submit a writeup for this assignment by 11:59 PM on Thursday, Feb. 8th to canvas *as a .pdf or .txt*. If your projects are hosted on Github you should copy your writeup to a readme.
 
 Writeups must include, for each scene:
 * A link to the online implementation

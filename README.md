@@ -1,4 +1,22 @@
 # homework-3-case-study
+## Wenli Zhao
+I implemented the tri-colored cube in shadertoy, linked below. The reference is in a gif under the assignment description.
+https://www.shadertoy.com/view/MdtyRN
+
+### Tri-colored Cube Implementation Description:
+In order to implement the tri-colored cube, I raymarched an SDF cube from an orthographic camera. I positioned the camera at (8,8,8) in world space and adjusted the look, right and up vectors so that it would be angled towards the origin of the cube, (0,0,0). The SDF served as both a clipping mask, as well as an actual cube's position in various stages of the gif.
+
+I broke the gif down into roughly four main steps.
+1. Rotating the colors clockwise.
+2. Rotating the cube along its y-axis.
+3. Rotating the colors counterclockwise.
+4. Rotating the cube along its z-axis.
+
+In order to rotate the colors, I used the cube as a clipping mask, and adjusted the colors of the screen as a function of time and an angle, that was calculated based on the screenspace positions of the pixels.
+In order to rotate the cube, I applied a transformation matrix to properly rotate the cube according to an angle that was dependent time. I rotated the cube 90 degrees. In order to preserve the colors of the cube, despite the normals shifting, I calculated the components of the normal, and depending on their values in the x, y, or z direction and whether the cube had rotated more or less than 45 degrees, I would color the according to the gif.
+
+The most challenging part of recreating this gif was the color preservation on the cube rotations around the y and z axes.
+
 
 # Assignment Description
 

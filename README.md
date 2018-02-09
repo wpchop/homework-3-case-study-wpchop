@@ -23,6 +23,9 @@ In order to rotate the cube, I applied a transformation matrix to properly rotat
 
 I found that the most challenging part of recreating this gif was the color preservation on the cube rotations around the y and z axes. It was tricky to map the estimation of the cube's normals to the correct color.
 
+Potential drawbacks:
+My shader code isn't well-factored and easy to read. I could probably clean up my code and optimize it a little better in terms of code-readability. As for performance, I have a lot of branching that could probably be cleaned up, but I'm still shaky on how to do this. However, it still runs at 60fps on my machine! :)
+
 ### Bubbling Beaker Implementation Details:
 For the bubbling beaker, I also implemented an orthographic camera, but instead viewed the scene along the negative z direction, with the camera at (0,0,15). I used the z-direction to maintain the depth of different components of the scene. Each successive component is closer to the camera, and colored differently. These included
 
@@ -34,6 +37,9 @@ For the bubbling beaker, I also implemented an orthographic camera, but instead 
     - The underlying structure was similar to the darker water, but the time was offset so that there would be variation in the waves. Additionally, there is an occasional bubble that rises. I also gave this layer a gradient from a darker blue to a lighter blue. This was achieved by mapping the color values to a subsection of the uv-coordinates in the y-direction.
 4. The light bubbles.
     - These bubbles are the top layer. Some bubble all the way up, and some stay inside the beaker. They were a function of time. I used mod to continuously repeat the bubbling up motion. To inject some randomness into the bubbling, I gave each bubble an arbitrary time period during which it would spawn at the bottom of the beaker.
+    
+Potential drawbacks:
+Once again, I think I have a lot of branching that I should clean up. Additionally, I could be smarter about the way I rolled together functions for the bubbles. Also, there is less of a story in my shader than that of the example gif. My beaker has a more arbitrary and constant bubbling, rather than a gradual rise in bubbling, lots of bursting and then return to a calm state.
 
 
 # Assignment Description

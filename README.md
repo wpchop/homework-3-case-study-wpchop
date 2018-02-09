@@ -5,7 +5,8 @@ I implemented the [tri-colored cube](https://www.shadertoy.com/view/MdtyRN) in s
 ### References
 #### Tri-colored cube reference:
 <img src="https://i.redd.it/e8dcpl3rw32z.gif" width="400px" />
-#### Bubblinb beaker reference:
+
+#### Bubbling beaker reference:
 <img src="https://d13yacurqjgara.cloudfront.net/users/318273/screenshots/2029648/verve_lab_dribbble.gif" width="400px" />
 
 ### Tri-colored Cube Implementation Details:
